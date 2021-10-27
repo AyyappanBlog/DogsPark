@@ -72,6 +72,11 @@ p{
   text-align: center;
   padding: 4.5%;
 }
+@media (max-width: 800px) and (min-width: 400px){
+.feauture-box{
+  padding: 6%;
+}
+}
 .icon:hover{
   color: #ff4c68;
 }
