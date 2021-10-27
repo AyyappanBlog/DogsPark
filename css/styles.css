@@ -72,9 +72,9 @@ p{
   text-align: center;
   padding: 4.5%;
 }
-@media (max-width: 800px) and (min-width: 400px){
+@media (max-width: 800px) and (min-width: 300px){
 .feauture-box{
-  padding: 13%;
+  padding: 20%;
 }
 }
 .icon:hover{
